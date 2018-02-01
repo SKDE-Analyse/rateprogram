@@ -14,6 +14,7 @@
 %include "&makrobane\aarsvar.sas";
 %include "&makrobane\definere_aar.sas";
 
+
 /*!
 Denne filen inneholder alle makroene til rateprogrammet, bortsett fra
 `boomraader`-makroen.
@@ -26,6 +27,7 @@ Frank Olsen 19/10-15
 %macro omraadeNorge;
 
 %mend;
+
 
 %macro rateberegninger;
 /*!
