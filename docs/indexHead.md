@@ -1,3 +1,6 @@
+# **FLYTTET TIL https://github.com/SKDE-Analyse/sas_codes**  
+
+
 ## Hvordan bruke rateprogrammet
 
 - Ha oppdatert *automacro*, se [her](http://skde-analyse.github.io/dokumentasjon/sas.html#macroer)
